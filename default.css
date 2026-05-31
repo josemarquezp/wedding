@@ -97,6 +97,7 @@ a {
     width:100%;
     display:block;
     box-shadow:0 8px 20px rgba(0,0,0,.08);
+    cursor: pointer;
 }
 
 /* RSVP */
